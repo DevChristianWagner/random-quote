@@ -23,7 +23,7 @@
 <div id="sobre"></div>
 
 <h2> 🪂 Sobre o projeto 🪂 </h2>
-Esse projeto foi feito para melhorar e testar meus conhecimentos em Javascript. Acesse-o agora mesmo [clicando aqui](https://devchristianwagner-randomquotes.netlify.app).
+Esse projeto foi feito para melhorar e testar meus conhecimentos em Javascript. Acesse-o agora mesmo [clicando aqui](https://devchristianwagner-randomquote.netlify.app).
 
 
 
@@ -58,7 +58,7 @@ $ git clone https://github.com/DevChristianWagner/random-quote/
 # Acesse a pasta do projeto
 $ cd random-quote/
 
-# Abra o index.html
+# Abra o index.html ou acesse online https://devchristianwagner-randomquote.netlify.app
 
 ```
 
